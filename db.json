@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "text": "Programare Dentist",
+      "day": "2022-01-05",
+      "reminder": true,
+      "time": "12:00",
+      "id": 1
+    },
+    {
+      "text": "Examen Scoala Informala",
+      "day": "2022-01-05",
+      "reminder": true,
+      "time": "02:38",
+      "id": 2
+    }
+  ]
+}
